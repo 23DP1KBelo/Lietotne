@@ -1,4 +1,4 @@
-#  Savu sapņu ceļojumu saraksta sistēma "Kurp tālāk?"
+#  Savu sapņu ceļojumu saraksta sistēma "Šurpu turpu"
 ## Obligātās funkcionālās prasības
  - Lietotnei ir vismaz 4 savstarpēji saistīti ekrāni/skati, kas nodrošina pilnvērtīgu lietotāja darba plūsmu;
  - Vismaz viena pilna CRUD funkcionalitāte (izveide, lasīšana, labošana, dzēšana (Create, read, update, delete)) kādam datu tipam;
